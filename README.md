@@ -1,5 +1,5 @@
 # Brick-Buster
-An interactive classic brick buster game that allows the player to interact with 2D elements.
+An interactive classic brick buster game that allows the player to interact with 2D elements using mouse/mouse pad movements.
 
 ## Identifying Information: 
 1. Name: Hemi Shah
